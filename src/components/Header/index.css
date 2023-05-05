@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.links_container {
+  display: flex;
+  justify-content: center;
+}
+.links {
+  list-style-type: none;
+  margin: 20px 30px;
+}
